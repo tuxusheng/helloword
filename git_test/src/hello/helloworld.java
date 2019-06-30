@@ -2,6 +2,7 @@ package hello;
 
 public class helloworld {
 
+
     public static void main(String[] args) {
         System.out.println("你好啊");
         System.out.println("你好啊");
@@ -9,6 +10,7 @@ public class helloworld {
         System.out.println("你好啊");
         System.out.println("你好啊");
         System.out.println("我是新的");
+        System.out.println("嘻嘻嘻嘻");
 
     }
 
