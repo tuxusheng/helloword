@@ -8,6 +8,8 @@ public class helloworld {
         System.out.println("你好啊");
         System.out.println("你好啊");
         System.out.println("你好啊");
+        System.out.println("我是新的");
 
     }
+
 }
